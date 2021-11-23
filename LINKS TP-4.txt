@@ -3,7 +3,7 @@ DEMOSTRACION
 DESKTOP
 https://www.figma.com/proto/tj1TtKHPp1Jg9QoXc8GXMq/TP-Interfaces?page-id=31%3A4&node-id=31%3A6&viewport=270%2C48%2C0.09&scaling=min-zoom&starting-point-node-id=31%3A6
 
-MOVILE  (Algunas vistas cargadas)
+MOBILE  (Algunas vistas cargadas)
 https://www.figma.com/proto/tj1TtKHPp1Jg9QoXc8GXMq/TP-Interfaces?page-id=180%3A1490&node-id=232%3A3207&viewport=270%2C48%2C0.36&scaling=min-zoom&starting-point-node-id=232%3A3207
 
 PROYECTO
